@@ -1,5 +1,5 @@
 {
-  "name": "@codecrafters/kafka",
+  "name": "mini-kafka",
   "version": "1.0.0",
   "type": "module",
   "dependencies": {
